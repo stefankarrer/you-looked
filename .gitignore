@@ -1,4 +1,8 @@
 
+# text notes
+
+*_N.txt 
+
 # OS generated files #
 ######################
 .DS_Store
@@ -11,7 +15,8 @@ Thumbs.db
 
 
 
-
+# vs code
+*.code-workspace
 # sublime text project #
 ######################
 *.sublime-project
